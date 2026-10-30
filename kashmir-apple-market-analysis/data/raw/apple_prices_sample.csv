@@ -1,0 +1,9 @@
+date,district,market,variety,grade,min_price,max_price,modal_price,price_unit,data_status
+2025-09-01,Shopian,Shopian Mandi,Delicious,A,5500,7200,6500,INR/quintal,Synthetic sample
+2025-09-01,Baramulla,Sopore Mandi,American,A,4800,6500,5900,INR/quintal,Synthetic sample
+2025-09-02,Pulwama,Pulwama Mandi,Royal Delicious,B,4200,5600,5000,INR/quintal,Synthetic sample
+2025-09-02,Anantnag,Anantnag Mandi,Delicious,B,4000,5400,4700,INR/quintal,Synthetic sample
+2025-10-01,Shopian,Shopian Mandi,Delicious,A,6000,7800,7000,INR/quintal,Synthetic sample
+2025-10-01,Baramulla,Sopore Mandi,American,A,5000,6800,6200,INR/quintal,Synthetic sample
+2025-10-02,Pulwama,Pulwama Mandi,Royal Delicious,B,4500,5900,5300,INR/quintal,Synthetic sample
+2025-10-02,Anantnag,Anantnag Mandi,Delicious,B,4300,5700,5000,INR/quintal,Synthetic sample
